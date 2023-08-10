@@ -1,0 +1,24 @@
+// montserrat
+@include font-face(
+  "Montserrat",
+  (
+    (Montserrat-Black, 900, normal),
+    (Montserrat-Italic, normal, italic),
+    (Montserrat-ExtraLightItalic, 200, italic),
+    (Montserrat-LightItalic, 300, italic),
+    (Montserrat-ExtraLight, 200, normal),
+    (Montserrat-Light, 300, normal),
+    (Montserrat-Bold, bold, normal),
+    (Montserrat-Medium, 500, normal),
+    (Montserrat-ExtraBold, bold, normal),
+    (Montserrat-ExtraBoldItalic, bold, italic),
+    (Montserrat-BoldItalic, bold, italic),
+    (Montserrat-BlackItalic, 900, italic),
+    (Montserrat-MediumItalic, 500, italic),
+    (Montserrat-SemiBold, 600, normal),
+    (Montserrat-SemiBoldItalic, 600, italic),
+    (Montserrat-Regular, normal, normal),
+    (Montserrat-Thin, 100, normal),
+    (Montserrat-ThinItalic, 100, italic)
+  )
+);
